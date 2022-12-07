@@ -1,0 +1,12 @@
+.input-text{
+    font-size: 12pt;
+    padding: 4px;
+    width: 80%;
+    border-radius: 4px;
+}
+
+.input-text:focus{
+    outline: none !important;
+    border-color: #6001ee;
+    box-shadow: 0 0 4px #6001ee;
+}

@@ -1,0 +1,17 @@
+.banner {
+    background-color: #6001ee;
+    color: white;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner-header{
+    font-size: 24pt;
+}
+.banner-counter{
+    margin-top: 4px;
+    font-size: 10pt;
+}
